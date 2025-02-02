@@ -1,5 +1,4 @@
-02.02 10:47 a. m.
-estilo.css
+
 
 body {
   font-family: Arial, sans-serif;
